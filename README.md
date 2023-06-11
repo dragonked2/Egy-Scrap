@@ -1,4 +1,5 @@
 🚀 Introducing Egy-Scrap : Unleash the Power of Network Monitoring! 🌐💻
+![image](https://github.com/dragonked2/Egy-Scrap/assets/66541902/3bc17b9f-0bd7-4647-b3ff-bb12c6e6ce04)
 
 Are you ready to take your network monitoring to the next level? Say hello to Egy-Scrap, the ultimate solution that empowers you to harness the full potential of your network! 🌟
 
